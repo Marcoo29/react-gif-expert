@@ -4,7 +4,7 @@ Este es mi repositorio del proyecto de GifExpertApp de React
 
 Para que me funcionara en React 18 solo tuve que seguir las instrucciones originales del prof pero despues hago lo siguiente:
 
-//Ajustes extras del curso para el correcto funcionamiento del testing de GifExpertApp
+Ajustes extras del curso para el correcto funcionamiento del testing de GifExpertApp:
 
 Elimino el jest.config.js
 
